@@ -16,7 +16,7 @@ export const Tr = styled.tr`
    height: 40px;
   text-align: center;
   :nth-of-type(2n) {
-    background-color: ${theme.colors.muted};
+    background-color: ${theme.colors.white};
   }
 `;
 
